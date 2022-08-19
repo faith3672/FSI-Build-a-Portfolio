@@ -1,0 +1,67 @@
+h1 
+{
+    text-align: center;
+    background-color: mistyrose;
+
+}
+.center
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 8px;;
+    width: 35%;
+    height: 165px;
+}
+.first-p
+{
+    text-align: center;
+    font-size: 18px;
+}
+.project-h
+{
+    text-align: center;
+    font-size: 21px;
+    padding: auto;
+}
+.about-h
+{
+    text-align: center;
+    font-size: 21px;
+    padding: auto;
+}
+a 
+{
+    color: black;
+    text-decoration: none;
+}
+a:hover
+{
+    color:lightpink;
+}
+h2
+{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+p
+{
+    text-align: center;
+}
+body
+{
+    margin: 10px;
+}
+.about
+{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.contact
+{
+    text-align: center;
+    font-size: 14px;
+    margin: 70px 500px;
+    border-style: solid;
+}

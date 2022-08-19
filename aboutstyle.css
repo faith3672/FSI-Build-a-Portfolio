@@ -1,0 +1,25 @@
+li, ol{
+        padding: 10px;
+        list-style-type: none;
+        font-size: 20px;
+      }
+    
+      body {
+        background-color: lavenderblush;
+        text-align: center;
+        padding: 5px;
+      }
+      img {
+        height: 250px;
+        padding: 9px;
+      }
+      h1
+     {
+       color: black;
+       padding: 30px;
+       text-align: center;
+      }
+      h2 
+      {
+        padding: 20px;
+      }
